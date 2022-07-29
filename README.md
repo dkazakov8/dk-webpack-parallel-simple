@@ -12,7 +12,7 @@ errors, requires separate file with configs.
 
 This one is a light alternative based on internal Node.js [child_process fork](https://nodejs.org/api/child_process.html#child_process_child_process_fork_modulepath_args_options)
 
-Supports TypeScript configs.
+Supports TypeScript configs
 
 ### Usage
 
